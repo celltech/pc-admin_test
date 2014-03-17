@@ -1,0 +1,658 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/views/stores/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 986,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/stores/create.blade.php",
+			"settings":
+			{
+				"buffer_size": 13875,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/stores/edit.blade.php",
+			"settings":
+			{
+				"buffer_size": 13319,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/controllers/StoresController.php",
+			"settings":
+			{
+				"buffer_size": 1946,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/Store.php",
+			"settings":
+			{
+				"buffer_size": 372,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vendor/laravel/framework/src/Illuminate/Validation/Validator.php",
+			"settings":
+			{
+				"buffer_size": 49973,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/config/remote.php",
+			"settings":
+			{
+				"buffer_size": 2303,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/layouts/master.blade.php",
+			"settings":
+			{
+				"buffer_size": 2014,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"selected_items":
+		[
+			[
+				"scaff",
+				"Laravel Generate: Scaffold"
+			],
+			[
+				"generate",
+				"Laravel Generate: Migration"
+			],
+			[
+				"migrate",
+				"Laravel Artisan: Migrate"
+			],
+			[
+				"migrat",
+				"Laravel Generate: Migration"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 160.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/staff-admin/app/config/database.php",
+		"/C/wamp/www/staff-admin/app/config/app.php",
+		"/C/wamp/www/staff-admin/app/routes.php",
+		"/C/wamp/www/staff-admin/app/database/migrations/2014_03_12_233825_create_create_contacts_table.php",
+		"/C/wamp/www/staff-admin/app/views/contacts/index.blade.php",
+		"/C/wamp/www/staff-admin/app/views/stores/show.blade.php",
+		"/C/wamp/www/staff-admin/app/models/Store.php",
+		"/C/wamp/www/staff-admin/app/controllers/StoresController.php",
+		"/C/wamp/www/staff-admin/composer.json",
+		"/C/wamp/www/staff-admin/app/views/layouts/master.blade.php",
+		"/C/wamp/www/staff-admin/app/views/hello.php",
+		"/C/wamp/www/staff-admin/public/js/jquery-1.11.0.min.js",
+		"/C/wamp/www/staff-admin/app/views/boot.php",
+		"/C/wamp/www/staff-admin/app/filters.php",
+		"/C/wamp/www/staff-admin/.htaccess",
+		"/C/wamp/bin/apache/Apache2.4.4/conf/extra/httpd-vhosts.conf",
+		"/C/wamp/www/staff-admin/htaccess.txt",
+		"/C/Users/tony saraceni/Google Drive/kbox/Scripts/CopyLocalToPw/CopyLocalToPaperworkScript-108Hartford.bat",
+		"/C/Users/tony saraceni/My Cubby/IT/NiniteBatchFile(Tony iMac).bat",
+		"/C/Users/tony saraceni/Google Drive/kbox/Scripts/CopyLocalToPw/CopyLocalToPaperworkScript-101Wallingford.bat",
+		"/C/Users/tony saraceni/Desktop/update-hosts.bat",
+		"/C/Users/tony saraceni/Desktop/NY-East.bat",
+		"/C/Users/tony saraceni/Desktop/Employee Master List Product Center 2013-11.prn",
+		"/C/Users/tony saraceni/Desktop/XML - Copy/5163051961_20131113.xml",
+		"/C/Users/tony saraceni/Google Drive/To-Do List/Tony.todo",
+		"/C/Users/tony saraceni/Google Drive/kbox/Scripts/adduser-with-login-screen.bat",
+		"/C/Users/tony saraceni/Google Drive/kbox/Scripts/Scitp to make shortcut test.vbs",
+		"/C/Users/tony saraceni/Documents/DB-Copy/user.sql",
+		"/C/Users/tony saraceni/Documents/DB-Copy/tbl_sections.sql",
+		"/C/Users/tony saraceni/Documents/DB-Copy/tbl_filetypes.sql",
+		"/C/Users/tony saraceni/Documents/DB-Copy/tbl_docs.sql",
+		"/C/Users/tony saraceni/Documents/DB-Copy/stores.sql",
+		"/C/Users/tony saraceni/Documents/DB-Copy/store_machines.sql",
+		"/C/Users/tony saraceni/Documents/DB-Copy/refund_request.sql",
+		"/C/Users/tony saraceni/Documents/DB-Copy/office_machines.sql",
+		"/C/Users/tony saraceni/Documents/DB-Copy/GoldClub_temp_members_db.sql",
+		"/C/Users/tony saraceni/Documents/DB-Copy/GoldClub_registered_members.sql",
+		"/C/Users/tony saraceni/Documents/DB-Copy/feedback.sql",
+		"/C/Users/tony saraceni/Google Drive/kbox/Scripts/CopyLocalToPw/CopyLocalToPaperworkScript-002Cedarhurst.bat",
+		"/C/Users/tony saraceni/Google Drive/kbox/Scripts/CopyLocalToPw/CopyLocalToPaperworkScript-004Merrick.bat",
+		"/C/Users/tony saraceni/Google Drive/kbox/Scripts/CopyLocalToPw/CopyLocalToPaperworkScript-000TonyTest.bat",
+		"/C/Users/tony saraceni/Google Drive/kbox/Scripts/CopyLocalToPw/CopyLocalToPaperworkScript-Stratford.bat",
+		"/C/Users/tony saraceni/Google Drive/kbox/Scripts/CopyLocalToPw/CopyLocalToPaperworkScript-Utica.bat",
+		"/C/Users/tony saraceni/Desktop/logMeIn.xml",
+		"/C/Users/tony saraceni/Google Drive/kbox/Scripts/DeleteLocalUser.vbs",
+		"/C/Users/tony saraceni/Google Drive/kbox/Scripts/CopyLocalToPw/CopyLocalToPaperworkScript-Wayne.bat",
+		"/C/Users/tony saraceni/Google Drive/kbox/Scripts/CopyLocalToPw/CopyLocalToPaperworkScript-LongBeach.bat",
+		"/C/Users/tony saraceni/Google Drive/kbox/Scripts/CopyLocalToPw/adduser.bat",
+		"/C/Users/tony saraceni/Desktop/test.vbs",
+		"/C/Users/tony saraceni/Desktop/Shortcut.exe",
+		"/C/Users/tony saraceni/Google Drive/kbox/Scripts/CopyLocalToPw/CopyLocalToPaperworkScript-Monticello.bat",
+		"/C/Users/tony saraceni/Google Drive/kbox/Scripts/CopyLocalToPw/CopyLocalToPaperworkScript-Killingly.bat",
+		"/C/Users/tony saraceni/Desktop/ATTProductCenterStores.kml",
+		"/C/Users/tony saraceni/Google Drive/kbox/Scripts/CopyLocalToPw/CopyLocalToPaperworkScript-Lisbon.bat",
+		"/C/Users/tony saraceni/Google Drive/kbox/Scripts/CopyLocalToPw/CopyScript-SmartVault-RVCtest.bat",
+		"/C/Users/tony saraceni/Desktop/db155636528.sql",
+		"/C/Users/tony saraceni/Google Drive/kbox/Scripts/CopyLocalToPw/CopyLocalToPaperworkScript-RVC.bat",
+		"/C/Users/tony saraceni/Google Drive/kbox/Scripts/CopyLocalToPw/CopyLocalToPaperworkScript-BoundBrook.bat",
+		"/C/Users/tony saraceni/Google Drive/kbox/Scripts/CopyLocalToPw/CopyLocalToPaperworkScript-Merrick.bat",
+		"/C/Users/tony saraceni/Google Drive/kbox/Scripts/CopyLocalToPw/CopyLocalToPaperworkScript-Bayshore.bat",
+		"/C/Users/tony saraceni/Google Drive/kbox/Scripts/CopyLocalToPw/CopyLocalToPaperworkScript-Piscataway.bat"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"''",
+			"'',",
+			"''",
+			"sat",
+			"Saturday Hours",
+			"fri",
+			"Friday Hours",
+			"hours_mf",
+			"Weekday Store Hours M-F",
+			"map",
+			"Link to Map",
+			"dealer_code",
+			"Store Dealer Code",
+			"landmark",
+			"Landmark",
+			"fax",
+			"Fax Number",
+			"tel",
+			"Telephone",
+			"zip",
+			"state",
+			"zip",
+			"store_zip",
+			"num",
+			"name",
+			"Name",
+			"name",
+			"Name",
+			"name",
+			"Name",
+			"name",
+			"Name",
+			"name",
+			"address",
+			"Address",
+			"address",
+			"Address",
+			"address",
+			"store_address",
+			"Address",
+			"address",
+			"Address",
+			"address",
+			"Address",
+			"address",
+			"city",
+			"City",
+			"city",
+			"City",
+			"city",
+			"store_state",
+			"state",
+			"State",
+			"store_name",
+			"beeptech",
+			"                     ",
+			"                    ",
+			"                   ",
+			"                  ",
+			"support",
+			"Support",
+			"support",
+			"Merrick",
+			"Bellmore",
+			"path",
+			"2>>&1",
+			"%log%",
+			"%store%",
+			"c:\\logs\\copy_log.txt",
+			"\"%store%\"",
+			"Wayne",
+			"wayne",
+			"Wayne",
+			"wayne",
+			"Wayne",
+			"wayne",
+			"Wayne",
+			"wayne",
+			"Wayne",
+			"LongBeach",
+			"Longbeach",
+			"LongBeach",
+			"Longbeach",
+			"LongBeach",
+			"\n",
+			" =",
+			"<item>",
+			"hostid",
+			"spiceworks",
+			"Spiceworks",
+			"spiceworks",
+			"Spiceworks",
+			"spiceworks",
+			"Monticello",
+			"monticello",
+			"Monticello",
+			"monticello",
+			"Monticello",
+			"Monroe",
+			"monroe",
+			"Monroe",
+			"monroe",
+			"Monroe",
+			"HamptonBays",
+			"hamptonbays",
+			"HamptonBays",
+			"FranklinLakes",
+			"franklinlakes",
+			"Franklinlakes",
+			"FranklinLakes",
+			"franklinlakes",
+			"Franklinlakes",
+			"FranklinLakes",
+			"Thornwood",
+			"thornwood",
+			"Thornwood",
+			"thornwood",
+			"Thornwood",
+			"Windsor",
+			"windsor",
+			"Windsor",
+			"windsor",
+			"Windsor",
+			"BergenMall",
+			"Bergenmall",
+			"BergenMall",
+			"Bergenmall",
+			"BergenMall"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/views/stores/index.blade.php",
+					"settings":
+					{
+						"buffer_size": 986,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								249,
+								249
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/views/stores/create.blade.php",
+					"settings":
+					{
+						"buffer_size": 13875,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9129,
+								9129
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1520.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/views/stores/edit.blade.php",
+					"settings":
+					{
+						"buffer_size": 13319,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								117,
+								117
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/controllers/StoresController.php",
+					"settings":
+					{
+						"buffer_size": 1946,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1297,
+								1297
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/models/Store.php",
+					"settings":
+					{
+						"buffer_size": 372,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								250,
+								250
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "vendor/laravel/framework/src/Illuminate/Validation/Validator.php",
+					"settings":
+					{
+						"buffer_size": 49973,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18377,
+								18377
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 16780.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/config/remote.php",
+					"settings":
+					{
+						"buffer_size": 2303,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								956,
+								956
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/views/layouts/master.blade.php",
+					"settings":
+					{
+						"buffer_size": 2014,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1081,
+								1081
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"tony.todo",
+				"/C/Users/tony saraceni/AppData/Roaming/Sublime Text 2/Packages/PlainTasks/messages/Tutorial.todo"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 168.0,
+	"status_bar_visible": true
+}
