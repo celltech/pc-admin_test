@@ -70,6 +70,14 @@
 				"buffer_size": 2014,
 				"line_ending": "Windows"
 			}
+		},
+		{
+			"file": "/C/Users/tony saraceni/AppData/Local/Google/Chrome/User Data/Local State",
+			"settings":
+			{
+				"buffer_size": 68843,
+				"line_ending": "Windows"
+			}
 		}
 	],
 	"build_system": "",
@@ -144,6 +152,9 @@
 	},
 	"file_history":
 	[
+		"/C/Users/tony saraceni/Google Drive/kbox/Scripts/CopyLocalToPw/CopyLocalToPaperworkScript-108Hartford.bat",
+		"/C/Users/tony saraceni/Google Drive/kbox/Scripts/CopyLocalToPw/CopyLocalToPaperworkScript-Hartford.bat",
+		"/C/wamp/www/staff-admin/app/database/seeds/StoresTableSeeder.php",
 		"/C/wamp/www/staff-admin/app/config/database.php",
 		"/C/wamp/www/staff-admin/app/config/app.php",
 		"/C/wamp/www/staff-admin/app/routes.php",
@@ -161,7 +172,6 @@
 		"/C/wamp/www/staff-admin/.htaccess",
 		"/C/wamp/bin/apache/Apache2.4.4/conf/extra/httpd-vhosts.conf",
 		"/C/wamp/www/staff-admin/htaccess.txt",
-		"/C/Users/tony saraceni/Google Drive/kbox/Scripts/CopyLocalToPw/CopyLocalToPaperworkScript-108Hartford.bat",
 		"/C/Users/tony saraceni/My Cubby/IT/NiniteBatchFile(Tony iMac).bat",
 		"/C/Users/tony saraceni/Google Drive/kbox/Scripts/CopyLocalToPw/CopyLocalToPaperworkScript-101Wallingford.bat",
 		"/C/Users/tony saraceni/Desktop/update-hosts.bat",
@@ -367,7 +377,7 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 8,
 			"sheets":
 			[
 				{
@@ -443,7 +453,9 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage"
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -496,7 +508,9 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -570,8 +584,8 @@
 						"selection":
 						[
 							[
-								1081,
-								1081
+								538,
+								538
 							]
 						],
 						"settings":
@@ -582,6 +596,34 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/tony saraceni/AppData/Local/Google/Chrome/User Data/Local State",
+					"settings":
+					{
+						"buffer_size": 68843,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16914,
+								16914
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7220.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -634,6 +676,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"stores",
+				"app/database/seeds/StoresTableSeeder.php"
+			],
 			[
 				"tony.todo",
 				"/C/Users/tony saraceni/AppData/Roaming/Sublime Text 2/Packages/PlainTasks/messages/Tutorial.todo"
