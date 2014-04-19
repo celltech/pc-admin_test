@@ -57,7 +57,7 @@ return array(
 			'host'      => 'localhost',
 			'database'  => 'staff-admin',
 			'username'  => 'tony',
-			'password'  => '1234',
+			'password'  => getenv('DB_PASSWORD'),
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',

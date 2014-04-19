@@ -11,11 +11,15 @@
 |
 */
 
-Route::get('/', function()
+/*Route::get('/', function()
 {
 	return View::make('hello');
-});
+});*/
 
+Route::get('/', function()
+{
+    return getenv('DB_PASSWORD');
+});
 Route::resource('stores', 'StoresController', array('before' => 'assets'));
 
 Route::any('boot', function()
