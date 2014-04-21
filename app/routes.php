@@ -13,7 +13,7 @@
 
 Route::get('/', function()
 {
-	dd(App::environment());
+    return 'foo';
 });
 
 Route::get('/test', function()
