@@ -13,7 +13,7 @@
 
 Route::get('/', function()
 {
-	return View::make('hello');
+	dd(App::environment());
 });
 
 Route::get('/test', function()

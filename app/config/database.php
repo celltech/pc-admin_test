@@ -54,9 +54,9 @@ return array(
 
 		'mysql' => array(
 			'driver'    => 'mysql',
-			'host'      => 'localhost',
-			'database'  => 'staff-admin',
-			'username'  => 'tony',
+			'host'      => getenv('DB_HOST'),
+			'database'  => getenv('DB_DATABASE'),
+			'username'  => getenv('DB_USERNAME'),
 			'password'  => getenv('DB_PASSWORD'),
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
